@@ -1,6 +1,6 @@
 ---
 title: "Project"
-author: "Trinath Sai Subhash Reddy Pittala, Uma Maheswara R Meleti, Hemanth Vasireddy"
+author: "Charan Basireddy, Mary Sravani Thamtam, Bala Aakash Malepati"
 date: "`r Sys.Date()`"
 output:
   pdf_document:
